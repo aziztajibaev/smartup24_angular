@@ -1,0 +1,1 @@
+Smartup24 ni Angular yordamidan birga quramiz! :)
